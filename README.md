@@ -1,4 +1,4 @@
-# Classic Models Sales Analytics Dashboard
+# Global Sales & Profitability Dashboard
 
 ## Table of Contents
 1. [Overview](#overview)
