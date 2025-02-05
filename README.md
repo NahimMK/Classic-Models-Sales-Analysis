@@ -125,7 +125,19 @@ The **scatter plot of Cost of Sale vs. Sales/Profit** indicates a generally posi
 - Utilize the **Sales Overview Table** to track month-over-month changes and anticipate seasonal demand shifts.
 - Implement dynamic pricing strategies during peak periods like November to maximize revenue without sacrificing customer satisfaction.
 
+--
 
+--
+
+--
+
+--
+
+--
+
+--
+
+--
 ## Further SQL/Excel Analyses
 ### Sales Overview 2004
 **Task**: Provide an overview of all sales from 2004. Give a breakdown by product and country and include the sales value, cost of sales, and net profit.
